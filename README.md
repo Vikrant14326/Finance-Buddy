@@ -1,6 +1,9 @@
 # Finance Buddy
 
 Finance Buddy is a sophisticated Streamlit application designed to analyze P&L documents and answer financial queries using Google Generative AI. This tool is perfect for financial analysts, accountants, and anyone dealing with financial statements.
+#TASK DEMO VIDEO..
+[Uploading Video of the task.webm…]()
+
 
 ## Table of Contents
 
