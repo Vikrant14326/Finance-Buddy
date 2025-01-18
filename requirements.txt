@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+google-generativeai
+langchain
+langchain-community
+faiss-cpu
+PyPDF2
+tabula-py
+pandas
+numpy
+python-multipart
